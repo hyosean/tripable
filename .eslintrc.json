@@ -1,0 +1,4 @@
+{
+  "extends": ["next/core-web-vitals", "react-app", "plugin:react-hooks/recommended", "plugin:import/recommended"],
+  "plugins": ["prettier"]
+}
